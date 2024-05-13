@@ -1,9 +1,9 @@
 [submodule "web-based-todo-list-backend"]
 	path = web-based-todo-list-backend
-	url = https://github.com/unsalsenturkk/web-based-todo-list-backend
+	url = https://github.com/unsalsenturk/web-based-todo-list-backend
 [submodule "web-based-todo-list-frontend"]
 	path = web-based-todo-list-frontend
-	url = https://github.com/unsalsenturkk/web-based-todo-list-frontend
+	url = https://github.com/unsalsenturk/web-based-todo-list-frontend
 [submodule "web-based-todo-list-e2e-acceptence"]
 	path = web-based-todo-list-e2e-acceptence
-	url = https://github.com/unsalsenturkk/web-based-todo-list-e2e-acceptence
+	url = https://github.com/unsalsenturk/web-based-todo-list-e2e-acceptence
